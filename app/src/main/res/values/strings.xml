@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuManagerMGA</string>
+    <string name="primera_opcion">Primera opcion</string>
+    <string name="segunda_action">segunda action</string>
+</resources>
